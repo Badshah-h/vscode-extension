@@ -1,0 +1,34 @@
+# Source files
+src/
+out/
+.vscode/
+.vscode-test/
+tsconfig.json
+webpack.config.js
+
+# Development files
+.gitignore
+.eslintrc.json
+.prettierrc
+*.map
+
+# Node modules
+node_modules/
+
+# Test files
+test/
+**/*.test.ts
+**/*.spec.ts
+
+# Documentation
+docs/
+*.md
+!README.md
+!LICENSE
+
+# Git
+.git/
+.github/
+
+# Build artifacts
+*.vsix
